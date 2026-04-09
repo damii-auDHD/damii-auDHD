@@ -66,7 +66,7 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dfw-dami&theme=radical&hide_border=true&border_radius=15&background=FF69B4,FFC0CB)
+![](https://github-readme-streak-stats.herokuapp.com/?user=dami-auDHD&theme=radical&hide_border=true&border_radius=15&background=FF69B4,FFC0CB)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dami-auDHD&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=15)
 
