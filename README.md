@@ -25,7 +25,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the unive
 </div>
 
 <p align="center">
-<img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" width="35" alt="JavaScript"/>
+<img src="[https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000](https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73)" width="35" alt="JavaScript"/>
 &nbsp;&nbsp;
 <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="35" alt="Python"/>
 &nbsp;&nbsp;
