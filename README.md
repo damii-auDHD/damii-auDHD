@@ -1,3 +1,5 @@
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmpmeXp5Z3plNmxmb3dzMXkwM3d0cm9wZGhuam5yOHN0cm1ra2xqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif">
+
 ## 🌸 About Me
 
 **`Digital Craftsman (Developer/Creator/Student)`**
