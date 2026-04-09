@@ -5,35 +5,24 @@
 </div>
 
 
-<div align="center">
-<h2> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ♡</h2>
-</div>
+<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmpmeXp5Z3plNmxmb3dzMXkwM3d0cm9wZGhuam5yOHN0cm1ra2xqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif">
 
-<table>
-<tr>
-<td valign="top" width="50%">
+## 🌸 About Me
 
-### 𝚑𝚘𝚋𝚋𝚒𝚎𝚜
-- 𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝚖𝚊𝚗𝚐𝚊 
-- 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚍𝚒𝚝𝚒𝚗𝚐 𝚌𝚘𝚍𝚎𝚜
-- 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 
+**`Digital Craftsman (Developer/Creator/Student)`**
 
-### 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚒𝚗𝚏𝚘
-- 𝙽𝚊𝚖𝚎: 𝙳𝚊𝚖𝚒
-- 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 
+Hey there! I'm **Dami**, a passionate computer science student who loves turning caffeine into code. When I'm not debugging or writing algorithms, you'll find me diving into manga or exploring new tech.
 
-</td>
-<td valign="top" width="50%" align="center">
+- 🎓 Studying Computer Science
+- 💻 Building with JavaScript, Python, Node.js
+- 📚 Currently Reading: Too many manga to count
+- 🎯 Goal: Master full-stack development
+- ⚡ Fun fact: I debug better with music
+- 🌱 Learning: Advanced algorithms & web development
+- 💬 Ask me about: Code, manga, or life philosophy
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmpmeXp5Z3plNmxmb3dzMXkwM3d0cm9wZGhuam5yOHN0cm1ra2xqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" alt="Dancing" width="100%"/>
+<br clear="right"/>
 
-&nbsp;&nbsp;
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybG5wZWhjdzU5cXZkMXVkYzdhbTc3cWxvcnJuc2hma3RwanczMTA4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwOVvsMGbU0dG/giphy.gif" alt="Dancing" width="100%"/>
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 <h2> 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 ♡ </h2>
