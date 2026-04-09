@@ -49,14 +49,17 @@ Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the unive
 <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" width="35" alt="Heroku"/>
 </p>
 &nbsp;&nbsp;
-&nbsp;&nbsp;
 
 <div align="center">
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=damii-auDHD&theme=radical&hide_border=true&border_radius=15&background=FF69B4,FFC0CB)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=damii-auDHD&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=15)
-
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-stats-alpha.vercel.app/api?username=damii-auDHD&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damii-auDHD&theme=tokyonight" width="100%">
+  
+  <p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damii-auDHD&theme=tokyonight" width="45%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damii-auDHD&theme=tokyonight" width="45%">
+  </p>
 </div>
 
 ---
