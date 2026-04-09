@@ -2,17 +2,17 @@
 
 ## 🌸 About Me
 
-**`Digital Craftsman (Developer/Creator/Student)`**
+**`zero core dreamer (Student)`**
 
-Hey there! I'm **Dami**, a passionate computer science student who loves turning caffeine into code. When I'm not debugging or writing algorithms, you'll find me diving into manga or exploring new tech.
+Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering systems programming, but again; it's just a dream, i wanna study statistics, applied mathematics, advanced physics and computer science
 
-- 🎓 Studying Computer Science
+- 🎓 Studying Statistics
 - 💻 Building with JavaScript, Python, Node.js
-- 📚 Currently Reading: Too many manga to count
-- 🎯 Goal: Master full-stack development
-- ⚡ Fun fact: I debug better with music
-- 🌱 Learning: Advanced algorithms & web development
-- 💬 Ask me about: Code, manga, or life philosophy
+- 📚 Currently: deciding life roadmap
+- 🎯 Goal: Master systems programming
+- ⚗️ random fact: i wanna spend my entire life in a university
+- 🌱 Learning: Advanced algorithms & calculus
+- 💬 Ask me about: sleeping positions and computers
 
 <br clear="right"/>
 
