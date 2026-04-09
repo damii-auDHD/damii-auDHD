@@ -66,9 +66,9 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dami-auDHD&theme=radical&hide_border=true&border_radius=15&background=FF69B4,FFC0CB)
+![](https://github-readme-streak-stats.herokuapp.com/?user=damii-auDHD&theme=radical&hide_border=true&border_radius=15&background=FF69B4,FFC0CB)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dami-auDHD&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=15)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=damii-auDHD&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=15)
 
 </div>
 
@@ -76,7 +76,7 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=dami-auDHD&icon=5&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=damii-auDHD&icon=5&color=12)](https://visitcount.itsvg.in)
 
 💖 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐! ✨
 
