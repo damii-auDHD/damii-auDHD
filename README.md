@@ -27,6 +27,8 @@ Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the unive
 <p align="center">
 <img src="https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="35" alt="JavaScript"/>
 &nbsp;&nbsp;
+<img src="https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473" width="35" alt="Typescript"/>
+&nbsp;&nbsp;
 <img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="35" alt="Python"/>
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" width="35" alt="Node.js"/>
