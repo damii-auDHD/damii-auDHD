@@ -4,7 +4,7 @@
 
 **`zero core dreamer (Student)`**
 
-Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering systems programming, but again; it's just a dream, i wanna study statistics, applied mathematics, advanced physics and computer science
+Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the universe brings forth that includes math and computers, i do not specialize in anything currently due to university workload, tho i'm looking forward to mastering systems programming, but again; it's just a dream, i wanna study statistics, applied mathematics, advanced physics, computer science and astrophysics.
 
 - 🎓 Studying Statistics
 - 💻 Building with JavaScript, Python, Node.js
