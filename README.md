@@ -81,7 +81,7 @@ Hey there! I'm **Dami**, a passionate computer science student who loves turning
 💖 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐! ✨
 
 ‎<p align="center">
-‎  <a href="https://github.com/dfw-dami"><img src="https://count.getloli.com/get/@damii-auDHD?theme=rule34" alt="loli"></a>
+‎  <a href="https://github.com/damii-auDHD"><img src="https://count.getloli.com/get/@damii-auDHD?theme=rule34" alt="loli"></a>
 ‎</p>
 
 
