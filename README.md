@@ -86,7 +86,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dfw-dami&theme=radical&hide_border=true&border_radius=15&background=FF69B4,FFC0CB)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfw-dami&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=15)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dami-auDHD&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&border_radius=15)
 
 </div>
 
