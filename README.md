@@ -45,7 +45,6 @@ Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the unive
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35" alt="VS Code"/>
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" width="35" alt="Heroku"/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 &nbsp;&nbsp;
 &nbsp;&nbsp;
