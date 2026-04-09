@@ -35,7 +35,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the unive
 &nbsp;&nbsp;
 <img src="https://icon.icepanel.io/Technology/png-shadow-512/Express.png" width="35" alt="Express.js"/>
 &nbsp;&nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-svg-download-png-2970492.png?f=webp&w=512" width="35" alt="MongoDB"/>
+<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="35" alt="MongoDB"/>
 &nbsp;&nbsp;
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="35" alt="MySQL"/>
 &nbsp;&nbsp;
