@@ -1,12 +1,3 @@
-<div align="center" style="position: relative;">
-<img src="./assets/profile.png" width="550" alt="profile"/>
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝙼𝚢+𝙿𝚛𝚘𝚏𝚒𝚕𝚎!+♡" alt="Typing SVG" />
-</div>
-
-
-<img align="right" alt="Coding" width="350" src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmpmeXp5Z3plNmxmb3dzMXkwM3d0cm9wZGhuam5yOHN0cm1ra2xqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif">
-
 ## 🌸 About Me
 
 **`Digital Craftsman (Developer/Creator/Student)`**
