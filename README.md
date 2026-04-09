@@ -51,7 +51,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obeessed with whatever the unive
 &nbsp;&nbsp;
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
+  <h2>**`𝚁𝚊𝚗𝚍𝚘𝚖 𝚂𝚝𝚊𝚝𝚜`**</h2>
   <img src="https://github-stats-alpha.vercel.app/api?username=damii-auDHD&cc=000&tc=fff&ic=fff&bc=000" alt="Stats">
   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damii-auDHD&theme=tokyonight" width="100%">
