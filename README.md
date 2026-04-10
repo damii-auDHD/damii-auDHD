@@ -52,16 +52,15 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 <div align="center">
   <h2><b>𝚁𝚊𝚗𝚍𝚘𝚖 𝚂𝚝𝚊𝚝𝚜</b></h2>
 
-  <img src="https://github-stats-alpha.vercel.app/api?username=damii-auDHD&cc=000&tc=fff&ic=fff&bc=000" alt="Stats" width="495">
+  <img src="https://github-readme-stats.vercel.app/api?username=damii-auDHD&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff7f&text_color=ffffff&icon_color=00ff7f&include_all_commits=true&count_private=true" alt="dami's GitHub Stats" width="495"/>
 
   <br/><br/>
 
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damii-auDHD&theme=tokyonight&bg_color=000000&border_color=000000&title_color=00ff7f" width="495" alt="Profile Details">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=damii-auDHD&bg_color=000000&color=00ff7f&line=00ff7f&point=ffffff&hide_border=true" alt="Contribution Graph" width="495"/>
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damii-auDHD&theme=tokyonight&bg_color=000000&border_color=000000" width="240" alt="Repos per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damii-auDHD&theme=tokyonight&bg_color=000000&border_color=000000" width="240" alt="Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=damii-auDHD&layout=compact&hide_border=true&bg_color=000000&title_color=00ff7f&text_color=ffffff&langs_count=6" alt="Top Languages" width="495"/>
 
 </div>
 
