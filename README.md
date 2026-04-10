@@ -56,8 +56,8 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=damii-auDHD&theme=tokyonight" width="100%">
   
   <p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damii-auDHD&theme=tokyonight" width="45%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damii-auDHD&theme=tokyonight" width="45%">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=damii-auDHD&theme=tokyonight" width="47%">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=damii-auDHD&theme=tokyonight" width="47%">
   </p>
 </div>
 
