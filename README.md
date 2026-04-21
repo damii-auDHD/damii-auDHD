@@ -8,7 +8,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 - 🎓 Studying Statistics
 - 💻 Building with JavaScript, Python, Node.js
 - 📚 Currently: deciding life roadmap
-- 🎯 Goal: Master systems programming
+- 🎯 Goal: create a systems programming language, named **zero** (file extension .z), then create an operating system with it
 - ⚗️ random fact: i wanna spend my entire life in a university
 - 🌱 Learning: Advanced algorithms & calculus
 - 💬 Ask me about: sleeping positions and computers
