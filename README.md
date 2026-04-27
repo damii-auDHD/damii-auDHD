@@ -11,7 +11,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 - 🎯 Goal: create a systems programming language, named **zero** (file extension .z), then create an operating system with it
 - ⚗️ random fact: i wanna spend my entire life in a university
 - 🌱 Learning: Advanced algorithms & calculus
-- Currently using: fedora 43 + Hyprland and GNOMD alongside windows 11
+- 🖥️ Currently using: fedora 43 + Hyprland and GNOME alongside windows 11 (yes it's dual booting)
 - 💬 Ask me about: sleeping positions and computers
 
 <br clear="right"/>
