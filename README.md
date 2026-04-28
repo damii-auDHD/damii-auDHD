@@ -40,8 +40,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="35" alt="MySQL"/>
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35" alt="Git"/>
-</p>
-<p align="center">
+&nbsp;&nbsp;
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-8630395.png?f=webp&w=512" width="35" alt="GitHub"/>
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35" alt="VS Code"/>
