@@ -48,6 +48,8 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 <img  src="https://camo.githubusercontent.com/b98c4f4214c7f17333ee991e773a7b006444c9d2b2055a11fef334245bf40130/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578"width="35" alt="Linux"/>
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" width="35" alt="Heroku"/>
+&nbsp;&nbsp;
+<img  src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg"width="35" alt="fedora"/>
 </p>
 &nbsp;&nbsp;
 
