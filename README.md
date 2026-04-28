@@ -11,7 +11,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 - 🎯 Goal: create a systems programming language, named **zero** (file extension .z), then create an operating system with it
 - ⚗️ random fact: i wanna spend my entire life in a university
 - 🌱 Learning: Advanced algorithms & calculus
-- 🖥️ Currently using: fedora 43 + Hyprland and GNOME alongside windows 11 (yes it's dual booting)
+- 🖥️ OS: fedora 43 + Arch Linux + windows 11 (yes it's multi-booting)
 - 💬 Ask me about: sleeping positions and computers
 
 <br clear="right"/>
@@ -45,6 +45,8 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-8630395.png?f=webp&w=512" width="35" alt="GitHub"/>
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35" alt="VS Code"/>
+&nbsp;&nbsp;
+<img  src="https://camo.githubusercontent.com/b98c4f4214c7f17333ee991e773a7b006444c9d2b2055a11fef334245bf40130/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578"width="35" alt="Linux"/>
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" width="35" alt="Heroku"/>
 </p>
