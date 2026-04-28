@@ -50,6 +50,8 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" width="35" alt="Heroku"/>
 &nbsp;&nbsp;
 <img  src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg"width="35" alt="fedora"/>
+&nbsp;&nbsp;
+  <img  src="https://upload.wikimedia.org/wikipedia/commons/1/13/Arch_Linux_%22Crystal%22_icon.svg"width="35" alt="Arch"/>
 </p>
 &nbsp;&nbsp;
 
