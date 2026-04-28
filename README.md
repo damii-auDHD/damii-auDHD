@@ -11,7 +11,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 - 🎯 Goal: create a systems programming language, named **zero** (file extension .z), then create an operating system with it
 - ⚗️ random fact: i wanna spend my entire life in a university
 - 🌱 Learning: Advanced algorithms & calculus
-- 🖥️ OS: fedora 43 + Arch Linux + windows 11 (yes it's multi-booting)
+- 🖥️ OS: fedora 44 + Arch Linux (Hyprland on both distros) + windows 11 (yes it's multi-booting)
 - 💬 Ask me about: sleeping positions and computers
 
 <br clear="right"/>
