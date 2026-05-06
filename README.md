@@ -9,7 +9,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 - 💻 Building with JavaScript, Python, Node.js
 - 📚 Currently: deciding life roadmap
 - 🎯 Goal: create a systems programming language, named **zero** (file extension .z), then create an operating system with it
-- ⚗️ random fact: i wanna spend my entire life in a university
+- ⚗️ random fact: i can't work with music cause i get extremely overwhelemed
 - 🌱 Learning: Advanced algorithms & calculus
 - 🖥️ OS: fedora 44 + Arch Linux (Hyprland on both distros) + windows 11 (yes it's multi-booting)
 - 💬 Ask me about: sleeping positions and computers
