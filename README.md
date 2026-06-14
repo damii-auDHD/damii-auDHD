@@ -19,10 +19,6 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 <h2> <b> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜, 𝚃𝚘𝚘𝚕𝚜 & 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 ✨ </b> </h2>
 </div>
 
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
-</div>
-
 <p align="center">
 <img src="https://camo.githubusercontent.com/93cc72e2d5be6d44753c7e8169440471f605eee495b3b78480a591c14f39080e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a73" width="35" alt="JavaScript"/>
   &nbsp;&nbsp;
