@@ -16,7 +16,7 @@ Hi lol! I'm **dami**, a neurodivergent teenager obsessed with whatever the unive
 <br clear="right"/>
 
 <div align="center">
-<h2> <b> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜, 𝚃𝚘𝚘𝚕𝚜 & 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 ✨ </b> </h2>
+<h2> <b>𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔</b> </h2>
 </div>
 
 <p align="center">
