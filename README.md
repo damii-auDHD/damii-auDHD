@@ -18,7 +18,7 @@ Hi ! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe
   &nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/e782d276e040099579bf1b9832177309472c5fe5480fe634cd3296e5bf2c099c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d7473" width="50" alt="Typescript"/>
   &nbsp;&nbsp;
-<img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="35" alt="Python"/>
+<img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="50" alt="Python"/>
   &nbsp;&nbsp;
 <img src="https://camo.githubusercontent.com/e8e3150052ccc7ce0fedf704278bbe1f136dc684c7d619b14d385b7d47b8c60c/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a73" width="50" alt="Node.js"/>
   &nbsp;&nbsp;
@@ -29,8 +29,6 @@ Hi ! I'm **dami**, a neurodivergent teenager obsessed with whatever the universe
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="50" alt="MySQL"/>
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="50" alt="Git"/>
-&nbsp;&nbsp;
-<img src="https://cdn.iconscout.com/icon/free/png-512/free-github-logo-icon-svg-download-png-8630395.png?f=webp&w=512" width="50" alt="GitHub"/>
 &nbsp;&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" alt="VS Code"/>
 &nbsp;&nbsp;
